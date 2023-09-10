@@ -10,7 +10,7 @@
 
 # tws
 
-The CLI Tool for Generate optimized CSS with Twind v1 inspired by [twd](https://github.com/kt3k/twd)
+The CLI Tool for generate CSS with Twind v1 inspired by [twd](https://github.com/kt3k/twd)
 
 <br>
 <br>
