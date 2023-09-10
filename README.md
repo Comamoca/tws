@@ -40,7 +40,7 @@ tws index.html twind.css
 ## ⬇️  Install
 
 ```sh
-deno install --allow-write --allow-read https://github.com/comamoca/tws/blob/main/tws.ts
+deno install --allow-write --allow-read https://raw.githubusercontent.com/Comamoca/tws/main/tws.ts
 ```
 
 ## 📝 Todo
